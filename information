@@ -1,0 +1,9 @@
+const myCampus = {
+  name: 'Elisa',
+  campus: 'Paris'}
+  
+  module.exports = {
+    objet: myCampus,
+  };
+
+
